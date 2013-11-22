@@ -1,0 +1,8 @@
+{
+    "sublimelinter_executable_map":
+    {
+        "perl": "/home/damaya/perl5/perlbrew/perls/perl-5.18.1/bin/perl"
+    },
+    "sublimelinter_mark_style": "fill",
+    "perl_linter": "perl"
+}

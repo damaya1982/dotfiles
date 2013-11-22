@@ -1,0 +1,60 @@
+Xft.autohint: 			                    0
+Xft.antialias: 			                    1
+Xft.hinting: 			                      true
+Xft.hintstyle: 			                    hintslight
+Xft.dpi: 			                          96
+Xft.rgba: 			                        rgb
+Xft.lcdfilter:          	              lcddefault
+URxvt*perl-ext-common: 		              default,matcher,clipboard
+URxvt*depth: 			                      24
+XTerm*eightBitInput:    	              false
+XTerm*metaSendsEscape:  	              true
+URxvt*saveLines: 		                    12000
+URxvt*font: 					           xft:Source\ Code\ Pro\ for\ Powerline
+URxvt*scrollBar: 		                    false
+URxvt*scrollBar_right: 		              false
+URxvt*borderLess:		                    false
+URxvt*inheritPixmap:		                false
+URxvt.urlLauncher: 		                  firefox
+URxvt*geometry: 		                    98x24
+
+URxvt*background:		                    #333333
+URxvt*foreground:		                    #F0F0D8
+URxvt*colorBD:     		                    #585653
+URxvt*colorUL:      		                #6C615E
+URxvt**cursorColor:                         #C3FF68
+
+! black
+URxvt*color0: 			                    #222222
+URxvt*color8: 			                    #999999
+
+! red
+URxvt*color1: 			                    #CC333F
+URxvt*color9: 			                    #C60001
+
+! green
+URxvt*color2: 			                    #77CCA4
+URxvt*color10: 			                    #27A343
+
+! yellow
+URxvt*color3: 			                    #C1951A
+URxvt*color11: 			                    #D5A30E
+
+! blue
+URxvt*color4: 			                    #00A0B0
+URxvt*color12: 			                    #1693A5
+
+! magenta
+URxvt*color5: 			                    #6A4A3C
+URxvt*color13: 			                    #893C8C
+
+! cyan
+URxvt*color6: 			                    #06989A
+URxvt*color14: 			                    #12BCCB
+
+! white
+URxvt*color7: 			                    #DCDCDC
+URxvt*color15: 			                    #EEEEEC
+
+URxvt*transparent:                      true
+URxvt*shading:                          10

@@ -1,0 +1,6 @@
+{
+    "cmd": ["perl", "-w", "-Ilib", "$file"],
+    "working_dir": "$project_path",
+    "file_regex": ".* at (.) line ([0-9])",
+    "selector": "source.perl"
+}

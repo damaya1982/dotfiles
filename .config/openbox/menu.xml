@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<openbox_menu xmlns="http://openbox.org/3.4/menu">
+	<menu id="system-menu" label="System">
+		<item icon="/home/damaya/.icons/AwOken/clear/24x24/apps/gconf-editor.png" label="Openbox Configuration Manager">
+			<action name="Execute">
+				<command>
+					obconf
+				</command>
+				<startupnotify>
+					<enabled>
+						yes
+					</enabled>
+				</startupnotify>
+			</action>
+		</item>
+		<item icon="/home/damaya/.icons/AwOken/clear/24x24/devices/printer.png" label="Manage Cups Printers">
+			<action name="Execute">
+				<command>
+					xdg-open http://localhost:631/
+				</command>
+				<startupnotify>
+					<enabled>
+						no
+					</enabled>
+					<icon>
+						cups
+					</icon>
+				</startupnotify>
+			</action>
+		</item>
+		<separator/>
+		<item icon="/home/damaya/.icons/AwOken/clear/24x24/categories/xfce-devel.png" label="Reconfigure Openbox">
+			<action name="Reconfigure"/>
+		</item>
+		<item icon="/home/damaya/.icons/AwOken/clear/24x24/actions/system-shutdown-panel.png" label="Exit Openbox">
+			<action name="Exit">
+				<prompt>
+					yes
+				</prompt>
+			</action>
+		</item>
+		<separator/>
+		<item icon="/home/damaya/.icons/AwOken/clear/24x24/actions/system-log-out.png" label="Log Out">
+			<action name="SessionLogout">
+				<prompt>
+					yes
+				</prompt>
+			</action>
+		</item>
+		<item icon="/home/damaya/.icons/AwOken/clear/24x24/actions/system-reboot.png" label="Reboot">
+			<action name="Execute">
+				<execute>
+					sudo shutdown -r now
+				</execute>
+			</action>
+		</item>
+		<item icon="/home/damaya/.icons/AwOken/clear/24x24/actions/system-shutdown.png" label="Poweroff">
+			<action name="Execute">
+				<execute>
+					sudo shutdown -h now
+				</execute>
+			</action>
+		</item>
+		<item icon="/home/damaya/.icons/AwOken/clear/24x24/actions/system-suspend-hibernate.png" label="Hibernate">
+			<action name="Execute">
+				<execute>
+					sudo pm-hibernate
+				</execute>
+			</action>
+		</item>
+		<item icon="/home/damaya/.icons/AwOken/clear/24x24/actions/system-suspend.png" label="Suspend">
+			<action name="Execute">
+				<execute>
+					sudo pm-suspend
+				</execute>
+			</action>
+		</item>
+	</menu>
+	<menu id="root-menu" label="Openbox 3">
+		<separator label="Openbox"/>
+		<item icon="/home/damaya/.icons/AwOken/clear/24x24/apps/terminal.png" label="Terminal">
+			<action name="Execute">
+				<execute>urxvt-tabbed</execute>
+			</action>
+		</item>
+		<item icon="/home/damaya/.icons/AwOken/clear/24x24/apps/firefox.png" label="Browser">
+			<action name="Execute">
+				<execute>firefox</execute>
+			</action>
+		</item>
+        <item icon="/home/damaya/.icons/AwOken/clear/24x24/apps/pidgin.png" label="Pidgin">
+			<action name="Execute">
+				<execute>pidgin</execute>
+			</action>
+		</item>
+        <item icon="/home/damaya/.icons/AwOken/clear/24x24/apps/thunderbird.png" label="Thunderbird">
+			<action name="Execute">
+				<execute>thunderbird</execute>
+			</action>
+		</item>
+		<item icon="/home/damaya/.icons/AwOken/clear/24x24/apps/gvim.png" label="gVim">
+			<action name="Execute">
+				<execute>gvim</execute>
+			</action>
+		</item>
+		<item icon="/home/damaya/.icons/AwOken/clear/24x24/apps/gedit.png" label="gedit">
+			<action name="Execute">
+				<execute>gedit</execute>
+			</action>
+		</item>
+		<item icon="/home/damaya/.icons/AwOken/clear/24x24/apps/sublime-text-2.png" label="Sublime">
+			<action name="Execute">
+				<execute>subl</execute>
+			</action>
+		</item>
+		<item icon="/home/damaya/.icons/AwOken/clear/24x24/apps/eclipse.png" label="Eclipse">
+			<action name="Execute">
+				<execute>eclipse</execute>
+			</action>
+		</item>
+		<menu icon="/home/damaya/.icons/AwOken/clear/24x24/emblems/emblem-linux.png" id="system-menu"/>
+	</menu>
+</openbox_menu>

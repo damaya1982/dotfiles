@@ -1,0 +1,22 @@
+[
+     {
+        "id": "tools",
+        "children":
+        [
+            {
+                "command": "repl_open",
+                "caption": "Run",
+                "mnemonic": "r",
+                "args":
+                {
+                    "type": "subprocess",
+                    "encoding": "utf8",
+                    "cmd": ["/home/damaya/perl5/perlbrew/perls/perl-5.18.1/bin/re.pl", "$file"],
+                    "cwd": "$file_path",
+                    "syntax": "Packages/Perl/Perl.tmLanguage",
+                    "external_id": "devel_repl"
+                }
+            }
+        ]
+    }
+]

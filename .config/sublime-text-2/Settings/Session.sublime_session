@@ -1,0 +1,2115 @@
+{
+	"folder_history":
+	[
+		"/home/damaya/neuadmin"
+	],
+	"last_window_id": 6,
+	"settings":
+	{
+		"new_window_height": 0.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"aler",
+						"alert-error"
+					],
+					[
+						"TE",
+						"TEST_TECHNICIAN_PD_T5"
+					],
+					[
+						"owner",
+						"owner"
+					],
+					[
+						"ca",
+						"calculate_average"
+					],
+					[
+						"family_l",
+						"family_log_rel_guti_ts_te"
+					],
+					[
+						"family",
+						"family_log_rel_guti_ts"
+					],
+					[
+						"family_log_",
+						"family_log_rel_guti_ts"
+					],
+					[
+						"unit-v",
+						"unit-view-table"
+					],
+					[
+						"unit-view",
+						"unit-view-table_filter"
+					],
+					[
+						"msg",
+						"msg"
+					],
+					[
+						"text",
+						"text"
+					],
+					[
+						"th",
+						"this"
+					],
+					[
+						"op",
+						"openIframe"
+					],
+					[
+						"portal",
+						"portal_client"
+					],
+					[
+						"parse",
+						"_parse_properties_file"
+					],
+					[
+						"_",
+						"_"
+					],
+					[
+						"files",
+						"files"
+					],
+					[
+						"unit",
+						"unit_directory"
+					],
+					[
+						"fix",
+						"fix_manip"
+					],
+					[
+						"time",
+						"timeoutPeriod"
+					],
+					[
+						"fa",
+						"family"
+					],
+					[
+						"logop",
+						"logop"
+					],
+					[
+						"rel",
+						"release_int"
+					],
+					[
+						"work",
+						"workorder"
+					],
+					[
+						"pur",
+						"purchase_order"
+					],
+					[
+						"test",
+						"test_type"
+					],
+					[
+						"proceed",
+						"proceed"
+					],
+					[
+						"serial",
+						"serial"
+					],
+					[
+						"sort",
+						"sorting-advanced"
+					],
+					[
+						"result",
+						"result"
+					],
+					[
+						"val",
+						"values_hash"
+					],
+					[
+						"Z",
+						"Z"
+					],
+					[
+						"User",
+						"User"
+					],
+					[
+						"no",
+						"no"
+					],
+					[
+						"for",
+						"foreign_addr"
+					],
+					[
+						"lo",
+						"local_addr"
+					],
+					[
+						"http",
+						"http_proxy_pass"
+					],
+					[
+						"http_",
+						"http_proxy_user"
+					],
+					[
+						"http_proxy",
+						"http_proxy"
+					],
+					[
+						"n",
+						"n"
+					],
+					[
+						"uni",
+						"unit2batch_reference"
+					],
+					[
+						"menu",
+						"menu"
+					],
+					[
+						"p",
+						"p"
+					],
+					[
+						"i",
+						"if	Conditional"
+					],
+					[
+						"r",
+						"r"
+					],
+					[
+						"expect",
+						"expect"
+					],
+					[
+						"rw",
+						"rw"
+					],
+					[
+						"debug",
+						"debug"
+					],
+					[
+						"ro",
+						"ro"
+					],
+					[
+						"after",
+						"after"
+					],
+					[
+						"match",
+						"match"
+					],
+					[
+						"port",
+						"port"
+					]
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 272.0,
+				"selected_items":
+				[
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"Package",
+						"Package Control: Install Package"
+					],
+					[
+						"Snippet: ",
+						"Snippet: Try/Except"
+					],
+					[
+						"pac",
+						"Package Control: Install Package"
+					],
+					[
+						"git",
+						"Set Syntax: Graphviz (DOT)"
+					]
+				],
+				"width": 449.0
+			},
+			"console":
+			{
+				"height": 125.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/damaya/Vorhandenheit/Vorhandenheit/Vorhandenheit",
+				"/home/damaya/Vorhandenheit/Vorhandenheit/scripts/update_db.pl",
+				"/home/damaya/Vorhandenheit/Vorhandenheit/scripts/vorhandenheit_client.pl",
+				"/home/damaya/Vorhandenheit/Vorhandenheit/templates/index.html.ep",
+				"/home/damaya/Vorhandenheit/Vorhandenheit/test.pl",
+				"/home/damaya/Vorhandenheit/Vorhandenheit/vorhandenheit.sql",
+				"/home/damaya/Vorhandenheit/Vorhandenheit/vorhandenheit.sql.tmp",
+				"/home/damaya/techportal/vorhandenheit_client.pl",
+				"/home/damaya/Vorhandenheit/Vorhandenheit/public/js/DataTables/jquery.fnSetFilteringDelay.js",
+				"/home/damaya/Vorhandenheit/Vorhandenheit/scripts/create_tdms_reports.pl",
+				"/home/damaya/Vorhandenheit/Vorhandenheit/public/js/DataTables/media/js/ColVis.js",
+				"/home/damaya/Vorhandenheit/Vorhandenheit/public/js/DataTables/media/css/ColVis.css",
+				"/srv/http/html/modals.html",
+				"/home/damaya/Vorhandenheit/Vorhandenheit/public/js/modal.js",
+				"/home/damaya/Vorhandenheit/Vorhandenheit/public/css/main.css",
+				"/srv/http/flat/page_ui_extras.html",
+				"/home/damaya/Vorhandenheit/Vorhandenheit/public/js/DataTables/media/css/ColVisAlt.css",
+				"/home/damaya/v_client/vorhandenheit_client.pl",
+				"/home/damaya/Vorhandenheit/jabberwocky/lib/Jabberwocky.pm",
+				"/home/damaya/Vorhandenheit/jabberwocky/lib/Jabberwocky/Example.pm",
+				"/home/damaya/Vorhandenheit/update_db.pl",
+				"/home/damaya/DataTables-0.03/lib/DataTables.pm",
+				"/home/damaya/Vorhandenheit/jabberwocky/lib/Schema/Result/Testdata.pm",
+				"/home/damaya/Desktop/create_tdms_reports.pl",
+				"/home/damaya/techportal/v_server.pl",
+				"/home/damaya/techportal/index.html",
+				"/tmp/test.pl",
+				"/home/damaya/techportal2/v_server.pl",
+				"/home/damaya/create_reports.pl",
+				"/home/damaya/Vorhandenheit/create_tdms_reports.pl",
+				"/srv/http/index.html",
+				"/srv/http/js/gridSelector.js",
+				"/srv/http/js/grid.js",
+				"/srv/http/js/jquery.grid-a-licious.js",
+				"/home/damaya/perl5/perlbrew/perls/perl-5.18.1/lib/5.18.1/Carp/Heavy.pm",
+				"/home/damaya/geshicss/vibrant-ink.css",
+				"/home/damaya/perl5/perlbrew/perls/perl-5.18.1/lib/5.18.1/Memoize.pm",
+				"/home/damaya/fuck.pl",
+				"/home/damaya/learning_java/BeerSong.java",
+				"/home/damaya/learning_java/PhraseOMatic.java",
+				"/home/damaya/learning_java/Shuffle1.java",
+				"/home/damaya/techportal2/index.html",
+				"/home/damaya/techportal2/js/libs/DataTables/jquery.dataTables.css",
+				"/home/damaya/techportal2/help.html",
+				"/home/damaya/techportal2/js/libs/DataTables/plugins/jquery.fnReloadAjax.js",
+				"/home/damaya/techportal2/editor.html",
+				"/home/damaya/techportal/portal_client.pl",
+				"/home/damaya/perl5/perlbrew/perls/perl-5.18.0/lib/site_perl/5.18.0/Twiggy.pm",
+				"/home/damaya/perl5/perlbrew/perls/perl-5.18.0/lib/site_perl/5.18.0/JSON.pm",
+				"/home/damaya/perl5/perlbrew/perls/perl-5.18.0/lib/site_perl/5.18.0/PocketIO.pm",
+				"/home/damaya/perl5/perlbrew/perls/perl-5.18.0/lib/site_perl/5.18.0/Modern/Perl.pm",
+				"/home/damaya/perl5/perlbrew/perls/perl-5.18.0/lib/site_perl/5.18.0/Try/Tiny.pm",
+				"/home/damaya/perl5/perlbrew/perls/perl-5.18.0/lib/site_perl/5.18.0/Mojolicious.pm",
+				"/home/damaya/techportal2/index.cgi",
+				"/home/damaya/techportal2/templates/index.html",
+				"/home/damaya/techportal2/js/libs/DataTables/jquery.dataTables.js",
+				"/home/damaya/techportal/templates/index.html",
+				"/home/damaya/techportal/index.cgi",
+				"/home/damaya/techportal/lib/Portal.pm",
+				"/home/damaya/mdv/htdocs/query.cgi",
+				"/home/damaya/techportal/units.pl",
+				"/home/damaya/techportal/create_xml.pl",
+				"/home/damaya/techportal/notes.cgi",
+				"/home/damaya/mdv/bin/mdv",
+				"/home/damaya/vactool/reports.html",
+				"/home/damaya/vactool/login.html",
+				"/home/damaya/vactool/vacation.cgi",
+				"/home/damaya/neuadmin/lib/Neuadmin/Example.pm",
+				"/home/damaya/neuadmin/templates/layouts/default.html.ep",
+				"/home/damaya/neuadmin/script/neuadmin",
+				"/home/damaya/neuadmin/public/index.html",
+				"/home/damaya/neuadmin/templates/love/anus.html.ep",
+				"/home/damaya/neuadmin/templates/example/welcome.html.ep",
+				"/home/damaya/neuadmin/lib/Neuadmin/Love.pm",
+				"/home/damaya/neuadmin/lib/Neuadmin.pm",
+				"/home/damaya/neuadmin/public/yaml/adduser.yaml",
+				"/home/damaya/neuadmin/public/yaml/adduser_client.yaml",
+				"/home/damaya/Desktop/jazzmaster-theme-package-by-webman/demo-content/webman-admin-panel.txt",
+				"/home/damaya/Desktop/jazzmaster-theme-package-by-webman/demo-content/democontent.jazzmaster.xml",
+				"/home/damaya/neuadmin/client/instructions.pl",
+				"/home/damaya/neuserver/templates/index.html",
+				"/opt/techportal/index.cgi",
+				"/home/damaya/neuserver/index.cgi",
+				"/home/damaya/neuclient/neuclient.pl",
+				"/srv/http/form.html",
+				"/home/damaya/neuserver/adduser.yaml",
+				"/home/damaya/neuclient/neuclient",
+				"/home/damaya/neuadmin/client/neuclient.pl",
+				"/tmp/test/templates/index.html",
+				"/tmp/test/adduser.yaml",
+				"/tmp/test/index.cgi",
+				"/home/damaya/neuadmin/client/neuadmin.pl",
+				"/home/damaya/techportal/ats_status.pl",
+				"/home/damaya/techportal/Nexus.pm",
+				"/home/damaya/techportal/client.pl",
+				"/srv/http/tables.html",
+				"/home/damaya/techportal/templates/edit_notes.html",
+				"/home/damaya/techportal/upload_xml.pl",
+				"/home/damaya/create_xml.pl",
+				"/home/damaya/create_xml/create_xml.pl",
+				"/srv/http/textareas.html",
+				"/home/damaya/blah/js/libs/ckeditor/ckeditor.js",
+				"/home/damaya/vactool/approvers.html",
+				"/home/damaya/vactool/cal.html",
+				"/home/damaya/ats_status.pl",
+				"/home/damaya/techportal/test.pl",
+				"/srv/http/modals.html",
+				"/home/damaya/perl5/perlbrew/perls/perl-5.18.0/lib/site_perl/5.18.0/Net/LDAP.pm",
+				"/srv/http/install2.html",
+				"/srv/http/install3.html",
+				"/srv/http/blocks.html",
+				"/srv/http/install4.html",
+				"/srv/http/install5.html",
+				"/srv/http/install6.html",
+				"/srv/http/css/style.css",
+				"/home/damaya/perl5/perlbrew/perls/perl-5.18.0/lib/site_perl/5.18.0/Net/OpenSSH.pm",
+				"/home/damaya/perl5/perlbrew/perls/perl-5.18.0/lib/site_perl/5.18.0/x86_64-linux/DBI.pm",
+				"/home/damaya/showmetheshell/lib/Net/OpenSSH.pm",
+				"/home/damaya/showmetheshell/showmetheshell.psgi",
+				"/home/damaya/showmetheshell/lib/Terminal.pm",
+				"/home/damaya/showmetheshell/test.pl",
+				"/home/damaya/showmetheshell/lib/Handler.pm",
+				"/home/damaya/showmetheshell/lib/OpenSSH.pm",
+				"/home/damaya/shadow-utils.output",
+				"/home/damaya/neuadmin/Neuadmin/Redhat/Users.pm",
+				"/home/damaya/neuadmin/Neuadmin.pm",
+				"/home/damaya/shit.pl",
+				"/tmp/Users.pm"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"navbar",
+					"dropdown-noti",
+					"dropdown",
+					"border-right",
+					"nav",
+					"dropdown-menu",
+					"dropdown-men",
+					"console.log",
+					"114",
+					"width",
+					"    \n",
+					"insert",
+					"print",
+					"for",
+					"siblings",
+					"sibling",
+					"/sibling",
+					"Pass Down",
+					"question",
+					"between",
+					"CSSTableGenerator",
+					"special_quote",
+					"run_time",
+					";\n",
+					"fnDraw",
+					"print",
+					"validate_file",
+					"fnServerParams",
+					"oScroll.sX",
+					"scroll",
+					"DataTables",
+					">\n",
+					"<label class=\"checkbox\">",
+					"<div class=\"rubberduck newline\">",
+					"<div class=\"rubberduck\">",
+					"DataTables",
+					"padding",
+					"value=\"1\" class=\"box checkbox mid-margin-left\" ",
+					" set_check(this.id);",
+					"openIfram",
+					"this",
+					"this.",
+					"submitnote",
+					"short",
+					"name",
+					"\\s+$",
+					"dropdown",
+					"label:          ",
+					"- label",
+					"print",
+					"map",
+					"Actions",
+					"select",
+					"arrayref",
+					"sub fetch",
+					"_set_error",
+					"_error",
+					"_bui",
+					"_mpty",
+					"shell_pid",
+					"_build_handle",
+					"self->{_mpt",
+					"sub message",
+					"message",
+					"passwd",
+					" (",
+					"\"%s",
+					"exp_internal",
+					"send",
+					"next_line"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					"TDMSTable",
+					"<label class=\"gridbox\">",
+					"<li>",
+					"",
+					"id",
+					"label",
+					"",
+					"label",
+					".*?"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.git":
+			{
+				"height": 100.0
+			},
+			"replace":
+			{
+				"height": 62.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true
+		},
+		"new_window_width": 0.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"aler",
+						"alert-error"
+					],
+					[
+						"TE",
+						"TEST_TECHNICIAN_PD_T5"
+					],
+					[
+						"owner",
+						"owner"
+					],
+					[
+						"ca",
+						"calculate_average"
+					],
+					[
+						"family_l",
+						"family_log_rel_guti_ts_te"
+					],
+					[
+						"family",
+						"family_log_rel_guti_ts"
+					],
+					[
+						"family_log_",
+						"family_log_rel_guti_ts"
+					],
+					[
+						"unit-v",
+						"unit-view-table"
+					],
+					[
+						"unit-view",
+						"unit-view-table_filter"
+					],
+					[
+						"msg",
+						"msg"
+					],
+					[
+						"text",
+						"text"
+					],
+					[
+						"th",
+						"this"
+					],
+					[
+						"op",
+						"openIframe"
+					],
+					[
+						"portal",
+						"portal_client"
+					],
+					[
+						"parse",
+						"_parse_properties_file"
+					],
+					[
+						"_",
+						"_"
+					],
+					[
+						"files",
+						"files"
+					],
+					[
+						"unit",
+						"unit_directory"
+					],
+					[
+						"fix",
+						"fix_manip"
+					],
+					[
+						"time",
+						"timeoutPeriod"
+					],
+					[
+						"fa",
+						"family"
+					],
+					[
+						"logop",
+						"logop"
+					],
+					[
+						"rel",
+						"release_int"
+					],
+					[
+						"work",
+						"workorder"
+					],
+					[
+						"pur",
+						"purchase_order"
+					],
+					[
+						"test",
+						"test_type"
+					],
+					[
+						"proceed",
+						"proceed"
+					],
+					[
+						"serial",
+						"serial"
+					],
+					[
+						"sort",
+						"sorting-advanced"
+					],
+					[
+						"result",
+						"result"
+					],
+					[
+						"val",
+						"values_hash"
+					],
+					[
+						"Z",
+						"Z"
+					],
+					[
+						"User",
+						"User"
+					],
+					[
+						"no",
+						"no"
+					],
+					[
+						"for",
+						"foreign_addr"
+					],
+					[
+						"lo",
+						"local_addr"
+					],
+					[
+						"http",
+						"http_proxy_pass"
+					],
+					[
+						"http_",
+						"http_proxy_user"
+					],
+					[
+						"http_proxy",
+						"http_proxy"
+					],
+					[
+						"n",
+						"n"
+					],
+					[
+						"uni",
+						"unit2batch_reference"
+					],
+					[
+						"menu",
+						"menu"
+					],
+					[
+						"p",
+						"p"
+					],
+					[
+						"i",
+						"if	Conditional"
+					],
+					[
+						"r",
+						"r"
+					],
+					[
+						"expect",
+						"expect"
+					],
+					[
+						"rw",
+						"rw"
+					],
+					[
+						"debug",
+						"debug"
+					],
+					[
+						"ro",
+						"ro"
+					],
+					[
+						"after",
+						"after"
+					],
+					[
+						"match",
+						"match"
+					],
+					[
+						"port",
+						"port"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/damaya/neuadmin/lib/Neuadmin/Command/setup.pm",
+					"settings":
+					{
+						"buffer_size": 11062,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/tmp/test.pl",
+					"settings":
+					{
+						"buffer_size": 124,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/damaya/.config/sublime-text-2/Packages/SublimeREPL/Main.sublime-menu",
+					"settings":
+					{
+						"buffer_size": 3374,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/damaya/.config/sublime-text-2/Packages/SublimeREPL/config/Perl/re2.pl",
+					"settings":
+					{
+						"buffer_size": 66,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "Packages/User/perl.sublime-build",
+			"command_palette":
+			{
+				"height": 54.0,
+				"selected_items":
+				[
+					[
+						"Package Control: install",
+						"Package Control: Install Package"
+					],
+					[
+						"Subl",
+						"SublimeREPL: Python - RUN current file"
+					],
+					[
+						"Sub",
+						"SublimeREPL: Perl"
+					],
+					[
+						"Package Control: ins",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: insta",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: inst",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"Package",
+						"Package Control: Install Package"
+					],
+					[
+						"Snippet: ",
+						"Snippet: Try/Except"
+					],
+					[
+						"pac",
+						"Package Control: Install Package"
+					],
+					[
+						"git",
+						"Set Syntax: Graphviz (DOT)"
+					]
+				],
+				"width": 588.0
+			},
+			"console":
+			{
+				"height": 125.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/damaya/.config/sublime-text-2/Packages/Alignment/Base File.sublime-settings",
+				"/home/damaya/.config/sublime-text-2/Packages/SublimeREPL/config/Perl/re.pl",
+				"/home/damaya/.config/sublime-text-2/Packages/SublimeREPL/config/Perl/Main.sublime-menu",
+				"/home/damaya/.config/sublime-text-2/Packages/User/SublimeREPL/config/Perl/Main.sublime-menu",
+				"/home/damaya/.config/sublime-text-2/Packages/SublimeREPL/config/Perl/Default.sublime-commands",
+				"/home/damaya/.config/sublime-text-2/Packages/SublimeREPL/text_transfer.py",
+				"/home/damaya/.config/sublime-text-2/Packages/SublimeREPL/run_existing_command.py",
+				"/home/damaya/.config/sublime-text-2/Packages/SublimeREPL/config/Main.sublime-menu.template",
+				"/home/damaya/.config/sublime-text-2/Packages/SublimeREPL/Context.sublime-menu",
+				"/home/damaya/.config/sublime-text-2/Packages/SublimeREPL/config/Python/Default.sublime-commands",
+				"/home/damaya/.config/sublime-text-2/Packages/User/perl.sublime-build",
+				"/tmp/shit.pl",
+				"/home/damaya/.config/sublime-text-2/Packages/User/SublimeLinter.sublime-settings",
+				"/home/damaya/.config/sublime-text-2/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+				"/home/damaya/.config/sublime-text-2/Packages/Package Control/Package Control.sublime-settings",
+				"/home/damaya/.config/sublime-text-2/Packages/SublimeLinter/Default (Linux).sublime-keymap",
+				"/home/damaya/.config/sublime-text-2/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+				"/home/damaya/.config/sublime-text-2/Packages/User/SublimeCodeIntel.sublime-settings",
+				"/home/damaya/neuadmin/lib/Neuadmin/files/templates/header_common.html.ep",
+				"/home/damaya/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+				"/home/damaya/.config/sublime-text-2/Packages/SublimeLinter/README.md",
+				"/home/damaya/neuadmin/lib/OSTI/DB/Deploy.pm",
+				"/home/damaya/neuadmin/bin/neuadmin",
+				"/home/damaya/neuadmin/lib/Neuadmin/Command/setup.pm",
+				"/home/damaya/neuadmin/lib/OSTI/Command/setup.pm",
+				"/home/damaya/neuadmin/lib/Neuadmin.pm",
+				"/home/damaya/Vorhandenheit/Vorhandenheit/Vorhandenheit",
+				"/home/damaya/Vorhandenheit/Vorhandenheit/scripts/update_db.pl",
+				"/home/damaya/Vorhandenheit/Vorhandenheit/scripts/vorhandenheit_client.pl",
+				"/home/damaya/Vorhandenheit/Vorhandenheit/templates/index.html.ep",
+				"/home/damaya/Vorhandenheit/Vorhandenheit/test.pl",
+				"/home/damaya/Vorhandenheit/Vorhandenheit/vorhandenheit.sql",
+				"/home/damaya/Vorhandenheit/Vorhandenheit/vorhandenheit.sql.tmp",
+				"/home/damaya/techportal/vorhandenheit_client.pl",
+				"/home/damaya/Vorhandenheit/Vorhandenheit/public/js/DataTables/jquery.fnSetFilteringDelay.js",
+				"/home/damaya/Vorhandenheit/Vorhandenheit/scripts/create_tdms_reports.pl",
+				"/home/damaya/Vorhandenheit/Vorhandenheit/public/js/DataTables/media/js/ColVis.js",
+				"/home/damaya/Vorhandenheit/Vorhandenheit/public/js/DataTables/media/css/ColVis.css",
+				"/srv/http/html/modals.html",
+				"/home/damaya/Vorhandenheit/Vorhandenheit/public/js/modal.js",
+				"/home/damaya/Vorhandenheit/Vorhandenheit/public/css/main.css",
+				"/srv/http/flat/page_ui_extras.html",
+				"/home/damaya/Vorhandenheit/Vorhandenheit/public/js/DataTables/media/css/ColVisAlt.css",
+				"/home/damaya/v_client/vorhandenheit_client.pl",
+				"/home/damaya/Vorhandenheit/jabberwocky/lib/Jabberwocky.pm",
+				"/home/damaya/Vorhandenheit/jabberwocky/lib/Jabberwocky/Example.pm",
+				"/home/damaya/Vorhandenheit/update_db.pl",
+				"/home/damaya/DataTables-0.03/lib/DataTables.pm",
+				"/home/damaya/Vorhandenheit/jabberwocky/lib/Schema/Result/Testdata.pm",
+				"/home/damaya/Desktop/create_tdms_reports.pl",
+				"/home/damaya/techportal/v_server.pl",
+				"/home/damaya/techportal/index.html",
+				"/tmp/test.pl",
+				"/home/damaya/techportal2/v_server.pl",
+				"/home/damaya/create_reports.pl",
+				"/home/damaya/Vorhandenheit/create_tdms_reports.pl",
+				"/srv/http/index.html",
+				"/srv/http/js/gridSelector.js",
+				"/srv/http/js/grid.js",
+				"/srv/http/js/jquery.grid-a-licious.js",
+				"/home/damaya/perl5/perlbrew/perls/perl-5.18.1/lib/5.18.1/Carp/Heavy.pm",
+				"/home/damaya/geshicss/vibrant-ink.css",
+				"/home/damaya/perl5/perlbrew/perls/perl-5.18.1/lib/5.18.1/Memoize.pm",
+				"/home/damaya/fuck.pl",
+				"/home/damaya/learning_java/BeerSong.java",
+				"/home/damaya/learning_java/PhraseOMatic.java",
+				"/home/damaya/learning_java/Shuffle1.java",
+				"/home/damaya/techportal2/index.html",
+				"/home/damaya/techportal2/js/libs/DataTables/jquery.dataTables.css",
+				"/home/damaya/techportal2/help.html",
+				"/home/damaya/techportal2/js/libs/DataTables/plugins/jquery.fnReloadAjax.js",
+				"/home/damaya/techportal2/editor.html",
+				"/home/damaya/techportal/portal_client.pl",
+				"/home/damaya/perl5/perlbrew/perls/perl-5.18.0/lib/site_perl/5.18.0/Twiggy.pm",
+				"/home/damaya/perl5/perlbrew/perls/perl-5.18.0/lib/site_perl/5.18.0/JSON.pm",
+				"/home/damaya/perl5/perlbrew/perls/perl-5.18.0/lib/site_perl/5.18.0/PocketIO.pm",
+				"/home/damaya/perl5/perlbrew/perls/perl-5.18.0/lib/site_perl/5.18.0/Modern/Perl.pm",
+				"/home/damaya/perl5/perlbrew/perls/perl-5.18.0/lib/site_perl/5.18.0/Try/Tiny.pm",
+				"/home/damaya/perl5/perlbrew/perls/perl-5.18.0/lib/site_perl/5.18.0/Mojolicious.pm",
+				"/home/damaya/techportal2/index.cgi",
+				"/home/damaya/techportal2/templates/index.html",
+				"/home/damaya/techportal2/js/libs/DataTables/jquery.dataTables.js",
+				"/home/damaya/techportal/templates/index.html",
+				"/home/damaya/techportal/index.cgi",
+				"/home/damaya/techportal/lib/Portal.pm",
+				"/home/damaya/mdv/htdocs/query.cgi",
+				"/home/damaya/techportal/units.pl",
+				"/home/damaya/techportal/create_xml.pl",
+				"/home/damaya/techportal/notes.cgi",
+				"/home/damaya/mdv/bin/mdv",
+				"/home/damaya/vactool/reports.html",
+				"/home/damaya/vactool/login.html",
+				"/home/damaya/vactool/vacation.cgi",
+				"/home/damaya/neuadmin/lib/Neuadmin/Example.pm",
+				"/home/damaya/neuadmin/templates/layouts/default.html.ep",
+				"/home/damaya/neuadmin/script/neuadmin",
+				"/home/damaya/neuadmin/public/index.html",
+				"/home/damaya/neuadmin/templates/love/anus.html.ep",
+				"/home/damaya/neuadmin/templates/example/welcome.html.ep",
+				"/home/damaya/neuadmin/lib/Neuadmin/Love.pm",
+				"/home/damaya/neuadmin/public/yaml/adduser.yaml",
+				"/home/damaya/neuadmin/public/yaml/adduser_client.yaml",
+				"/home/damaya/Desktop/jazzmaster-theme-package-by-webman/demo-content/webman-admin-panel.txt",
+				"/home/damaya/Desktop/jazzmaster-theme-package-by-webman/demo-content/democontent.jazzmaster.xml",
+				"/home/damaya/neuadmin/client/instructions.pl",
+				"/home/damaya/neuserver/templates/index.html",
+				"/opt/techportal/index.cgi",
+				"/home/damaya/neuserver/index.cgi",
+				"/home/damaya/neuclient/neuclient.pl",
+				"/srv/http/form.html",
+				"/home/damaya/neuserver/adduser.yaml",
+				"/home/damaya/neuclient/neuclient",
+				"/home/damaya/neuadmin/client/neuclient.pl",
+				"/tmp/test/templates/index.html",
+				"/tmp/test/adduser.yaml",
+				"/tmp/test/index.cgi",
+				"/home/damaya/neuadmin/client/neuadmin.pl",
+				"/home/damaya/techportal/ats_status.pl",
+				"/home/damaya/techportal/Nexus.pm",
+				"/home/damaya/techportal/client.pl",
+				"/srv/http/tables.html",
+				"/home/damaya/techportal/templates/edit_notes.html",
+				"/home/damaya/techportal/upload_xml.pl",
+				"/home/damaya/create_xml.pl",
+				"/home/damaya/create_xml/create_xml.pl",
+				"/srv/http/textareas.html",
+				"/home/damaya/blah/js/libs/ckeditor/ckeditor.js",
+				"/home/damaya/vactool/approvers.html"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"osti",
+					"OSTI",
+					"osti",
+					"OSTI",
+					"navbar",
+					"dropdown-noti",
+					"dropdown",
+					"border-right",
+					"nav",
+					"dropdown-menu",
+					"dropdown-men",
+					"console.log",
+					"114",
+					"width",
+					"    \n",
+					"insert",
+					"print",
+					"for",
+					"siblings",
+					"sibling",
+					"/sibling",
+					"Pass Down",
+					"question",
+					"between",
+					"CSSTableGenerator",
+					"special_quote",
+					"run_time",
+					";\n",
+					"fnDraw",
+					"print",
+					"validate_file",
+					"fnServerParams",
+					"oScroll.sX",
+					"scroll",
+					"DataTables",
+					">\n",
+					"<label class=\"checkbox\">",
+					"<div class=\"rubberduck newline\">",
+					"<div class=\"rubberduck\">",
+					"DataTables",
+					"padding",
+					"value=\"1\" class=\"box checkbox mid-margin-left\" ",
+					" set_check(this.id);",
+					"openIfram",
+					"this",
+					"this.",
+					"submitnote",
+					"short",
+					"name",
+					"\\s+$",
+					"dropdown",
+					"label:          ",
+					"- label",
+					"print",
+					"map",
+					"Actions",
+					"select",
+					"arrayref",
+					"sub fetch",
+					"_set_error",
+					"_error",
+					"_bui",
+					"_mpty",
+					"shell_pid",
+					"_build_handle",
+					"self->{_mpt",
+					"sub message",
+					"message",
+					"passwd",
+					" (",
+					"\"%s",
+					"exp_internal",
+					"send",
+					"next_line"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"neuadmin",
+					"Neuadmin",
+					"neuadmin",
+					"Neuadmin",
+					"TDMSTable",
+					"<label class=\"gridbox\">",
+					"<li>",
+					"",
+					"id",
+					"label",
+					"",
+					"label",
+					".*?"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/damaya/neuadmin"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/damaya/neuadmin/lib/Neuadmin/Command/setup.pm",
+							"settings":
+							{
+								"buffer_size": 11062,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										268,
+										268
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"codeintel": true,
+									"codeintel_config":
+									{
+										"JavaScript":
+										{
+											"codeintel_max_recursive_dir_depth": 2,
+											"codeintel_scan_files_in_project": false,
+											"javascriptExtraPaths":
+											[
+											]
+										},
+										"PHP":
+										{
+											"codeintel_max_recursive_dir_depth": 5,
+											"codeintel_scan_files_in_project": false,
+											"phpExtraPaths":
+											[
+											]
+										},
+										"Python":
+										{
+											"env":
+											{
+											}
+										}
+									},
+									"codeintel_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_live": true,
+									"codeintel_live_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_max_recursive_dir_depth": 10,
+									"codeintel_scan_exclude_dir":
+									{
+										"JavaScript":
+										[
+											"/build/",
+											"/min/"
+										]
+									},
+									"codeintel_scan_files_in_project": true,
+									"codeintel_selected_catalogs":
+									[
+										"PyWin32",
+										"jQuery",
+										"Rails"
+									],
+									"codeintel_snippets": true,
+									"codeintel_syntax_map":
+									{
+										"Python Django": "Python"
+									},
+									"codeintel_tooltips": "popup",
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perl",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublime_auto_complete": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+										"perl": "/home/damaya/perl5/perlbrew/perls/perl-5.18.1/bin/perl"
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "fill",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/Perl/Perl.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/tmp/test.pl",
+							"settings":
+							{
+								"buffer_size": 124,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										115,
+										115
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"codeintel": true,
+									"codeintel_config":
+									{
+										"JavaScript":
+										{
+											"codeintel_max_recursive_dir_depth": 2,
+											"codeintel_scan_files_in_project": false,
+											"javascriptExtraPaths":
+											[
+											]
+										},
+										"PHP":
+										{
+											"codeintel_max_recursive_dir_depth": 5,
+											"codeintel_scan_files_in_project": false,
+											"phpExtraPaths":
+											[
+											]
+										},
+										"Python":
+										{
+											"env":
+											{
+											}
+										}
+									},
+									"codeintel_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_live": true,
+									"codeintel_live_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_max_recursive_dir_depth": 10,
+									"codeintel_scan_exclude_dir":
+									{
+										"JavaScript":
+										[
+											"/build/",
+											"/min/"
+										]
+									},
+									"codeintel_scan_files_in_project": true,
+									"codeintel_selected_catalogs":
+									[
+										"PyWin32",
+										"jQuery",
+										"Rails"
+									],
+									"codeintel_snippets": true,
+									"codeintel_syntax_map":
+									{
+										"Python Django": "Python"
+									},
+									"codeintel_tooltips": "popup",
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perl",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublime_auto_complete": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+										"perl": "/home/damaya/perl5/perlbrew/perls/perl-5.18.1/bin/perl"
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "fill",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/Mojolicious/Perl.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/damaya/.config/sublime-text-2/Packages/SublimeREPL/Main.sublime-menu",
+							"settings":
+							{
+								"buffer_size": 3374,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										294,
+										294
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"codeintel": true,
+									"codeintel_config":
+									{
+										"JavaScript":
+										{
+											"codeintel_max_recursive_dir_depth": 2,
+											"codeintel_scan_files_in_project": false,
+											"javascriptExtraPaths":
+											[
+											]
+										},
+										"PHP":
+										{
+											"codeintel_max_recursive_dir_depth": 5,
+											"codeintel_scan_files_in_project": false,
+											"phpExtraPaths":
+											[
+											]
+										},
+										"Python":
+										{
+											"env":
+											{
+											}
+										}
+									},
+									"codeintel_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_live": true,
+									"codeintel_live_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_max_recursive_dir_depth": 10,
+									"codeintel_scan_exclude_dir":
+									{
+										"JavaScript":
+										[
+											"/build/",
+											"/min/"
+										]
+									},
+									"codeintel_scan_files_in_project": true,
+									"codeintel_selected_catalogs":
+									[
+										"PyWin32",
+										"jQuery",
+										"Rails"
+									],
+									"codeintel_snippets": true,
+									"codeintel_syntax_map":
+									{
+										"Python Django": "Python"
+									},
+									"codeintel_tooltips": "popup",
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perl",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublime_auto_complete": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+										"perl": "/home/damaya/perl5/perlbrew/perls/perl-5.18.1/bin/perl"
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "fill",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/JavaScript/JSON.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 204.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/home/damaya/.config/sublime-text-2/Packages/SublimeREPL/config/Perl/re2.pl",
+							"settings":
+							{
+								"buffer_size": 66,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										8,
+										8
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"codeintel": true,
+									"codeintel_config":
+									{
+										"JavaScript":
+										{
+											"codeintel_max_recursive_dir_depth": 2,
+											"codeintel_scan_files_in_project": false,
+											"javascriptExtraPaths":
+											[
+											]
+										},
+										"PHP":
+										{
+											"codeintel_max_recursive_dir_depth": 5,
+											"codeintel_scan_files_in_project": false,
+											"phpExtraPaths":
+											[
+											]
+										},
+										"Python":
+										{
+											"env":
+											{
+											}
+										}
+									},
+									"codeintel_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_live": true,
+									"codeintel_live_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_max_recursive_dir_depth": 10,
+									"codeintel_scan_exclude_dir":
+									{
+										"JavaScript":
+										[
+											"/build/",
+											"/min/"
+										]
+									},
+									"codeintel_scan_files_in_project": true,
+									"codeintel_selected_catalogs":
+									[
+										"PyWin32",
+										"jQuery",
+										"Rails"
+									],
+									"codeintel_snippets": true,
+									"codeintel_syntax_map":
+									{
+										"Python Django": "Python"
+									},
+									"codeintel_tooltips": "popup",
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perl",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublime_auto_complete": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+										"perl": "/home/damaya/perl5/perlbrew/perls/perl-5.18.1/bin/perl"
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "fill",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/Mojolicious/Perl.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 114.0
+			},
+			"output.git":
+			{
+				"height": 100.0
+			},
+			"position": "0,1,0,0,0,0,0,0,0,1366,768",
+			"replace":
+			{
+				"height": 62.0
+			},
+			"save_all_on_build": false,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"window_id": 6,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

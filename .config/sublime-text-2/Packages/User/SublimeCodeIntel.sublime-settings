@@ -1,0 +1,18 @@
+{
+    "Perl": {
+        "perl": "/home/damaya/perl5/perlbrew/perls/perl-5.18.1/bin/perl",
+        "perlExtraPaths": []
+    },
+    "Ruby": {
+        "ruby": "/usr/bin/ruby",
+        "rubyExtraPaths": []
+    },
+    "Python": {
+        "python": "/usr/bin/python2",
+        "pythonExtraPaths": []
+    },
+    "Python3": {
+        "python": "/usr/bin/python",
+        "pythonExtraPaths": []
+    }
+}

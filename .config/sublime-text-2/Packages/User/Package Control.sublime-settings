@@ -1,0 +1,17 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"Alignment",
+		"Git",
+		"ModernPerl",
+		"Mojolicious",
+		"Package Control",
+		"PerlTidy",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeREPL",
+		"Theme - Soda",
+		"Tomorrow Color Schemes"
+	]
+}

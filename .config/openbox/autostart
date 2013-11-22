@@ -1,0 +1,6 @@
+#avant-window-navigator --startup &
+tint2 &
+volumeicon -b &
+nitrogen --restore &
+xcompmgr &
+#compton &
